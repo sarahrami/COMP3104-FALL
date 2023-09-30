@@ -1,0 +1,20 @@
+{
+  "name": "comp3104-fall",
+  "version": "1.0.0",
+  "description": "- sarah - moustafa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahrami/COMP3104-FALL.git"
+  },
+  "keywords": ["devops", "nodejs", "express", "web"],
+  "author": "Sarah Moustafa - 101376641",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahrami/COMP3104-FALL/issues"
+  },
+  "homepage": "https://github.com/sarahrami/COMP3104-FALL#readme"
+}
