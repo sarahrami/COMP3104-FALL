@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/sarahrami/COMP3104-FALL/static/css/main.7a7d29af.css",
-    "main.js": "/sarahrami/COMP3104-FALL/static/js/main.1212229b.js",
+    "main.css": "/sarahrami/COMP3104-FALL/static/css/main.4152c3d3.css",
+    "main.js": "/sarahrami/COMP3104-FALL/static/js/main.0757e01e.js",
     "index.html": "/sarahrami/COMP3104-FALL/index.html",
-    "main.7a7d29af.css.map": "/sarahrami/COMP3104-FALL/static/css/main.7a7d29af.css.map",
-    "main.1212229b.js.map": "/sarahrami/COMP3104-FALL/static/js/main.1212229b.js.map"
+    "main.4152c3d3.css.map": "/sarahrami/COMP3104-FALL/static/css/main.4152c3d3.css.map",
+    "main.0757e01e.js.map": "/sarahrami/COMP3104-FALL/static/js/main.0757e01e.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a7d29af.css",
-    "static/js/main.1212229b.js"
+    "static/css/main.4152c3d3.css",
+    "static/js/main.0757e01e.js"
   ]
 }
