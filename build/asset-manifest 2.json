@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sarahrami/COMP3104-FALL/static/css/main.7a7d29af.css",
+    "main.js": "/sarahrami/COMP3104-FALL/static/js/main.1212229b.js",
+    "index.html": "/sarahrami/COMP3104-FALL/index.html",
+    "main.7a7d29af.css.map": "/sarahrami/COMP3104-FALL/static/css/main.7a7d29af.css.map",
+    "main.1212229b.js.map": "/sarahrami/COMP3104-FALL/static/js/main.1212229b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a7d29af.css",
+    "static/js/main.1212229b.js"
+  ]
+}
